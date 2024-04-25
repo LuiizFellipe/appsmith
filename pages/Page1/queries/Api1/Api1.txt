@@ -1,0 +1,3 @@
+{
+	"nome": "{{Input1.text}}"
+}
